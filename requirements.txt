@@ -1,0 +1,8 @@
+flask
+opencv-python
+numpy
+mediapipe
+face-recognition
+tensorflow
+imutils
+pandas
